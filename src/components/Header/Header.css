@@ -1,0 +1,12 @@
+.Header{
+    grid-column: span 2;
+    display: flex;
+    background-color: rgb(178, 178, 233);
+    margin-bottom: 10px;
+}
+.buttons{
+    border: none;
+}
+.header_main{
+    border: none;
+}

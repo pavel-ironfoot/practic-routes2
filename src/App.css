@@ -1,0 +1,18 @@
+.App{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 150px min-content;
+    font-size: 16px;
+    min-width: 700px;
+}
+div{
+    border: 1px solid black;
+    padding: 15px;
+}
+button{
+    padding:5px;
+    margin: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+a{text-decoration: none;}
