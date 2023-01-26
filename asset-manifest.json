@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/practic-routes2/static/css/main.ebe2a04b.css",
-    "main.js": "/practic-routes2/static/js/main.a08088fa.js",
+    "main.css": "/practic-routes2/static/css/main.fa077e8f.css",
+    "main.js": "/practic-routes2/static/js/main.8d1f330d.js",
     "static/js/787.ed024abb.chunk.js": "/practic-routes2/static/js/787.ed024abb.chunk.js",
     "index.html": "/practic-routes2/index.html",
-    "main.ebe2a04b.css.map": "/practic-routes2/static/css/main.ebe2a04b.css.map",
-    "main.a08088fa.js.map": "/practic-routes2/static/js/main.a08088fa.js.map",
+    "main.fa077e8f.css.map": "/practic-routes2/static/css/main.fa077e8f.css.map",
+    "main.8d1f330d.js.map": "/practic-routes2/static/js/main.8d1f330d.js.map",
     "787.ed024abb.chunk.js.map": "/practic-routes2/static/js/787.ed024abb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebe2a04b.css",
-    "static/js/main.a08088fa.js"
+    "static/css/main.fa077e8f.css",
+    "static/js/main.8d1f330d.js"
   ]
 }
