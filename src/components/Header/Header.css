@@ -7,6 +7,19 @@
 .buttons{
     border: none;
 }
-.header_main{
+.header__main{
+    display: flex;
     border: none;
+}
+.header__main>div{
+    border: none;
+}
+.header__main__elem{
+    margin: 4px;
+    height: fit-content;
+    background-color: rgb(119, 119, 139);
+    color: rgb(0, 0, 0);
+}
+.header__main__elem:hover{
+    background-color: rgb(86, 86, 145);
 }
